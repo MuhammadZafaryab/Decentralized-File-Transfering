@@ -1,0 +1,7 @@
+This is a sample file content for testing the decentralized file transfer project.
+
+Decentralized File Transfer:
+- Each chunk of the file is encrypted and compressed.
+- Data is transferred securely and reconstructed accurately.
+
+
