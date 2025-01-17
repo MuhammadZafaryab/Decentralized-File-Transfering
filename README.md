@@ -1,9 +1,9 @@
 # Decentralized-File-Transfering
 
-Algorithms and Techniques Applied
+What Algorithms and Techniques Applied
 AES-256-CBC Encryption:
 
-Provides robust encryption for securing file chunks during transfer.
+We have provided encryption for securing file chunks during transfer.
 Uses a symmetric key and an initialization vector (IV) for encryption and decryption.
 Zlib Compression:
 
